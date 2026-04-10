@@ -1,7 +1,0 @@
-[build]
-  base = "Ascend-East"
-  command = "npm run build"
-  publish = ".next"
-
-[build.environment]
-  NEXT_PRIVATE_LOCAL_WEBPACK = "true"
